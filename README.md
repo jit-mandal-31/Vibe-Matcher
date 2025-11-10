@@ -25,9 +25,14 @@ It analyzes product descriptions and finds the closest matches based on semantic
 vibe_matcher/
 │
 ├── .env                     # Stores your OpenRouter API key
+
 ├── requirements.txt         # All required dependencies
+
 ├── vibe_matcher.py          # Main Python script
+
 ├── vibe_matcher.log         # Auto-generated log file
+
 ├── vibe_matcher_output.csv  # Output file with vibe match results
+
 └── README.md                # Project documentation
 
