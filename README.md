@@ -1,10 +1,6 @@
 
 #  Vibe Matcher
 
-![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
-![License](https://img.shields.io/badge/License-Educational-lightgrey)
-![Status](https://img.shields.io/badge/Status-Prototype-green)
-![OpenRouter](https://img.shields.io/badge/API-OpenRouter.ai-orange)
 
 ---
 
