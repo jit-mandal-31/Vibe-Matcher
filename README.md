@@ -25,7 +25,7 @@ It analyzes product descriptions and finds the closest matches based on semantic
 
 ### 1. Install Dependences
 
-pip install -r requirements.txt
+- pip install -r requirements.txt
 
 ### 2. Create a .env File
 
@@ -35,7 +35,8 @@ OPENAI_API_BASE = https://openrouter.ai/api/v1
 
 ### 3. Run the Script
 
-python vibe_matcher.py
+- python vibe_matcher.py
+
 ---
 
 ## Output
