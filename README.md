@@ -19,4 +19,21 @@ It analyzes product descriptions and finds the closest matches based on semantic
 
 ---
 
+# ⚙️ Installation & Setup
+
+---
+
+### 1. Install Dependences
+
+pip install -r requirements.txt
+
+### 2. Create a .env File
+
+OPENROUTER_API_KEY= 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
+
+OPENAI_API_BASE = https://openrouter.ai/api/v1
+
+### 3. Run the Script
+
+python vibe_matcher.py
 
