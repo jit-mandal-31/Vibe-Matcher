@@ -19,7 +19,7 @@ It analyzes product descriptions and finds the closest matches based on semantic
 
 ---
 
-# ⚙️ Installation & Setup
+## ⚙️ Installation & Setup
 
 ---
 
@@ -34,6 +34,13 @@ OPENROUTER_API_KEY= sk-or-v1-221cce24266e068fda7da57f64faad2d141cc6de5f12e83215c
 OPENAI_API_BASE = https://openrouter.ai/api/v1
 
 ### 3. Run the Script
+
+---
+
+## Output
+
+---
+
 
 python vibe_matcher.py
 
