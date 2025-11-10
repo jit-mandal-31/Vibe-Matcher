@@ -41,6 +41,8 @@ python vibe_matcher.py
 
 ## Output
 
+<img width="767" height="504" alt="image" src="https://github.com/user-attachments/assets/7628b9a0-027f-4452-9287-81a1a957f528" />
+
 ---
 
 
