@@ -35,6 +35,7 @@ OPENAI_API_BASE = https://openrouter.ai/api/v1
 
 ### 3. Run the Script
 
+python vibe_matcher.py
 ---
 
 ## Output
@@ -42,5 +43,5 @@ OPENAI_API_BASE = https://openrouter.ai/api/v1
 ---
 
 
-python vibe_matcher.py
+
 
