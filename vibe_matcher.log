@@ -1,0 +1,24 @@
+2025-11-11 01:18:23 - INFO -  Vibe Matcher script started.
+2025-11-11 01:18:23 - INFO -  API key loaded successfully.
+2025-11-11 01:18:23 - INFO -  OpenRouter client initialized successfully.
+2025-11-11 01:18:23 - INFO -  Mock product dataset created successfully.
+2025-11-11 01:18:23 - INFO - \U0001f539 Generating embeddings for products...
+2025-11-11 01:18:25 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/embeddings "HTTP/1.1 200 OK"
+2025-11-11 01:18:29 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/embeddings "HTTP/1.1 200 OK"
+2025-11-11 01:18:29 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/embeddings "HTTP/1.1 200 OK"
+2025-11-11 01:18:30 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/embeddings "HTTP/1.1 200 OK"
+2025-11-11 01:18:32 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/embeddings "HTTP/1.1 200 OK"
+2025-11-11 01:18:34 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/embeddings "HTTP/1.1 200 OK"
+2025-11-11 01:18:35 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/embeddings "HTTP/1.1 200 OK"
+2025-11-11 01:18:36 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/embeddings "HTTP/1.1 200 OK"
+2025-11-11 01:18:37 - INFO -  Generated embeddings for 8 products.
+2025-11-11 01:18:37 - INFO -  Searching for vibe query: 'energetic urban chic'
+2025-11-11 01:18:38 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/embeddings "HTTP/1.1 200 OK"
+2025-11-11 01:18:39 - INFO -  Query 'energetic urban chic' completed in 1.93s. Top match: Street Jacket
+2025-11-11 01:18:39 - INFO -  Searching for vibe query: 'relaxed cozy vibe'
+2025-11-11 01:18:40 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/embeddings "HTTP/1.1 200 OK"
+2025-11-11 01:18:41 - INFO -  Query 'relaxed cozy vibe' completed in 2.14s. Top match: Cozy Sweater
+2025-11-11 01:18:41 - INFO -  Searching for vibe query: 'professional office look'
+2025-11-11 01:18:41 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/embeddings "HTTP/1.1 200 OK"
+2025-11-11 01:18:42 - INFO -  Query 'professional office look' completed in 0.96s. Top match: Classic Blazer
+2025-11-11 01:18:42 - INFO -  All vibe queries completed successfully. Results saved to vibe_matcher_output.csv.
